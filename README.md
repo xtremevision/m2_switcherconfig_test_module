@@ -1,0 +1,1 @@
+# m2_switcherconfig_test_module
